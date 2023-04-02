@@ -2,7 +2,7 @@
 #### Software Engineer by day ☀️ and night 🌙
 #### I'm a Software Engineer at [Orion](https://orionesolutions.com/)<br> and a passionate Blogger at [AnuragDeep.com](https://anuragdeep.com/)
 
-- ⚙️ Daily Technologies: .php, .js, .ts, .cs, .py
+- ⚙️ Daily Technologies: .py, .js, .ts, .php, .cs .sh
 - 🌍 Most Active on: [AnuragDeep.com](https://anuragdeep.com/)
 - 🌱 Expanding my knowledge in: Emerging Technologies
 - 📫 Connect with me on: LinkedIn [https://www.linkedin.com/in/anuragdeepxon/](https://www.linkedin.com/in/anuragdeepxon/)

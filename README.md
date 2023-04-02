@@ -1,6 +1,6 @@
 ### Hi there, I'm Anurag Deep 👋
 #### Software Engineer by day ☀️ and night 🌙
-#### I'm a Software Engineer at [Orion](https://orionesolutions.com/);<br> and a passionate Blogger at [AnuragDeep.com](https://anuragdeep.com/)
+#### I'm a Software Engineer at [Orion](https://orionesolutions.com/)<br> and a passionate Blogger at [AnuragDeep.com](https://anuragdeep.com/)
 
 - ⚙️ Daily Technologies: .php, .js, .ts, .cs, .py
 - 🌍 Most Active on: [AnuragDeep.com](https://anuragdeep.com/)

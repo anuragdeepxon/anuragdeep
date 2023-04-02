@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and night ☾
+#### A Software Engineer by day ☼ and night ☾
 
 Software Engineer at [Orion](https://orionesolutions.com/);<br>
 Blogger at [AnuragDeep.com](https://anuragdeep.com/);<br>

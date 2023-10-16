@@ -1,12 +1,12 @@
-## Hi there, I'm Anurag Deep 👋<br>
+## Hi there, I'm Anurag Deep 👋
 Software Engineer by day ☀️ and night 🌙<br>
 
-⚙️ Daily Technologies: .py, .js, .ts, .php, .cs .sh<br>🌍 Most Active on: AnuragDeep.com<br>🌱 Expanding my knowledge in: Emerging Technologies<br>📫 Connect with me on: (https://linkedin.com/in/anuragdeepxon/) <br><br>
+⚙️ Daily Technologies: .py, .js, .ts, .php, .cs .sh<br>🌍 Most Active on: AnuragDeep.com<br>🌱 Expanding my knowledge in: Emerging Technologies<br>📫 Connect with me on: (https://linkedin.com/in/anuragdeepxon/) <br>
 
-### Blogs & Writing ✍️<br>
-Apart from coding, I also maintain a blog at AnuragDeep.com, where I share my thoughts, experiences, and knowledge on technology, programming, and software engineering.<br><br>
+### Blogs & Writing ✍️
+Apart from coding, I also maintain a blog at AnuragDeep.com, where I share my thoughts, experiences, and knowledge on technology, programming, and software engineering.<br>
 
-### Connect & Collaborate 🤝<br>
+### Connect & Collaborate 🤝
 Feel free to reach out to me for any collaboration, projects, or just to say hello!. Looking forward to building amazing things together!
 
 ## Tech Stack:

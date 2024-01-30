@@ -1,7 +1,7 @@
 ## Hi there, I'm Prasoon Thakur 👋
 Software Engineer by day ☀️ and night 🌙<br>
 
-⚙️ Daily Technologies: .py, .js, .ts, .php, .cs .sh<br>🌍 Most Active on: AnuragDeep.com<br>🌱 Expanding my knowledge in: Emerging Technologies<br>📫 Connect with me on: (https://linkedin.com/in/anuragdeepxon/) <br>
+⚙️ Daily Technologies: .py, .js, .ts, .php, .cs .sh<br>🌍 Most Active on: https://prasoonthakur.com<br>🌱 Expanding my knowledge in: Emerging Technologies<br> <br>
 
 ### Blogs & Writing ✍️
 Apart from coding, I also maintain a blog at https://prasoonthakur.com, where I share my thoughts, experiences, and knowledge on technology, programming, and software engineering.<br>

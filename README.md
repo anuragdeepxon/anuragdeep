@@ -1,10 +1,10 @@
-## Hi there, I'm Anurag Deep 👋
+## Hi there, I'm Prasoon Thakur 👋
 Software Engineer by day ☀️ and night 🌙<br>
 
 ⚙️ Daily Technologies: .py, .js, .ts, .php, .cs .sh<br>🌍 Most Active on: AnuragDeep.com<br>🌱 Expanding my knowledge in: Emerging Technologies<br>📫 Connect with me on: (https://linkedin.com/in/anuragdeepxon/) <br>
 
 ### Blogs & Writing ✍️
-Apart from coding, I also maintain a blog at AnuragDeep.com, where I share my thoughts, experiences, and knowledge on technology, programming, and software engineering.<br>
+Apart from coding, I also maintain a blog at https://prasoonthakur.com, where I share my thoughts, experiences, and knowledge on technology, programming, and software engineering.<br>
 
 ### Connect & Collaborate 🤝
 Feel free to reach out to me for any collaboration, projects, or just to say hello!. Looking forward to building amazing things together!
